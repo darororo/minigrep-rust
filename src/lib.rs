@@ -2,6 +2,8 @@ use std::error::Error;
 use std::fs;
 use std::env;
 
+// ice cream i scream
+
 pub struct Config {
     pub query: String,
     pub file_path: String,
