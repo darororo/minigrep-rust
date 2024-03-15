@@ -4,6 +4,7 @@ use std::env;
 
 // ice cream i scream
 
+// new comment
 pub struct Config {
     pub query: String,
     pub file_path: String,
